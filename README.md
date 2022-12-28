@@ -42,20 +42,20 @@ In this Project, we have tried to make our own ToDo List website with our own po
 ***
 ## 7. Screenshots:camera:
    - **Home Page without Logged in user**
-   ![Home Page without Login](./images/home%20page%20without%20login.jpg)
+   ![Home Page without Login](images/home%20page%20without%20login.jpg)
 
    - **Home Page with Logged in user**
-   ![Home Page with Login](./images/home%20page%20with%20login.jpg)
+   ![Home Page with Login](images/home%20page%20with%20login.jpg)
 
    - **Sign Up page**
-    ![Sign Up page](./images/signup%20page.jpg)
+    ![Sign Up page](images/signup%20page.jpg)
    - **Login page**
-    ![Login page](./images/login%20page.jpg)
+    ![Login page](images/login%20page.jpg)
     - **About page**
       - ***Unflipped Card***
-   ![About page 1](./images/About%20page%201.jpg)
+   ![About page 1](images/About%20page%201.jpg)
       - ***Flipped card***
-   ![About page 2](./images/about%20page%202.jpg)
+   ![About page 2](images/about%20page%202.jpg)
    - **Contact Page**
       - ***Image 1***
    ![Contact page 1](/images/contact%20page%201.jpg)
@@ -84,7 +84,7 @@ In this Project, we have tried to make our own ToDo List website with our own po
 _Here, I learnt a lot of things while making the project. We were able to make the todo list with update and remove 
 option in the list. We also sorted and filtered the tasks in the lists using the Javascript._
 ***
-##12. Project Developer
+## 12. Project Developer
 - ***Pritam Sharma***
 
 
