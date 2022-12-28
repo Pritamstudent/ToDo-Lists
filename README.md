@@ -49,32 +49,31 @@ In this Project, we have tried to make our own ToDo List website with our own po
 ##  7. Screenshots:camera:
   
    - **Home Page without Logged in user**
-   ![Home Page without Login](images/home%20page%20without%20login.jpg )
+   ![home page without login](https://user-images.githubusercontent.com/121369078/209808865-d7cfc67e-6f21-4a65-af96-a82131b6706e.jpg)
   
    - **Home Page with Logged in user**
-   ![Home Page with Login](images/home%20page%20with%20login.jpg )
+   ![home page with login](https://user-images.githubusercontent.com/121369078/209808833-7ab08183-7a86-46c4-b919-55c29b1b557d.jpg)
   
    - **Sign Up page**
-    ![Sign Up page](images/signup%20page.jpg )
+    ![signup page](https://user-images.githubusercontent.com/121369078/209808511-3c7f8ef7-e64e-44d9-bf89-a0032a66baa1.jpg)
    - **Login page**
-    ![Login page](images/login%20page.jpg )
+    ![login page](https://user-images.githubusercontent.com/121369078/209808572-5e2f0d43-b0f7-49e9-88a5-a907b197ea24.jpg)
     - **About page**
       - ***Unflipped Card***
-   ![About page 1](images/About%20page%201.jpg )
+   ![About page 1](https://user-images.githubusercontent.com/121369078/209808615-f3128936-18ad-484e-9aa3-2f6a2dedc0bc.jpg)
       - ***Flipped card***
-   ![About page 2](images/about%20page%202.jpg )
+  ![about page 2](https://user-images.githubusercontent.com/121369078/209808647-cb98c40a-55ea-47fe-b2f7-ec0077dfafef.jpg)
    - **Contact Page**
       - ***Image 1***
-   ![Contact page 1](images/contact%20page%201.jpg )
+  ![contact page 1](https://user-images.githubusercontent.com/121369078/209808682-7665ca97-ca69-4cab-8ec8-574630b93856.jpg)
       - ***Image 2***
-    ![Contact page 2](images/contact%20page%202.jpg )
-  
+    ![contact page 2](https://user-images.githubusercontent.com/121369078/209808714-70cb7572-eb75-432a-b574-da434127917c.jpg)
    - **Add Task Page**
-   ![Add Task](images/add%20task%20page.jpg )
+   ![add task page](https://user-images.githubusercontent.com/121369078/209808756-dec59a78-772b-4c7d-84c5-6efbf376ee89.jpg)
    - **View Task Page**
-   ![View Task](images/view%20todo%20lists.jpg )
+  ![view todo lists](https://user-images.githubusercontent.com/121369078/209808792-c70565c3-191d-4566-80d2-52841c0a246a.jpg)
    - **Footer Page** 
-   ![footer page](images/footer.jpg)
+   ![footer](https://user-images.githubusercontent.com/121369078/209808425-35091c5b-64a8-402e-a1b9-2f6aed69e424.jpg)
 ***
 ##  8. Limitations
   
