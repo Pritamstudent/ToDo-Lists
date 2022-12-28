@@ -62,10 +62,10 @@ In this Project, we have tried to make our own ToDo List website with our own po
       - ***Image 2***
     ![Contact page 2](./images/contact%20page%202.jpg)
 
-   - **Add Task Page**
-   ![Add Task](./images/add%20task%20page.jpg)
+ - **Add Task Page**
+   ![Alt text](images/add%20task%20page.jpg)
    - **View Task Page**
-   ![View Task](./images/view%20todo%20lists.jpg)
+   ![Alt text](images/view%20todo%20lists.jpg)
    - **Footer Page** 
    ![Footer Page](./images/footer.jpg)
 ***
