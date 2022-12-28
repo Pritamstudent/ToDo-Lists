@@ -42,32 +42,32 @@ In this Project, we have tried to make our own ToDo List website with our own po
 ***
 ## 7. Screenshots:camera:
    - **Home Page without Logged in user**
-   ![Home Page without Login](images/home%20page%20without%20login.jpg)
+   ![Home Page without Login](./images/home%20page%20without%20login.jpg)
 
    - **Home Page with Logged in user**
-   ![Home Page with Login](images/home%20page%20with%20login.jpg)
+   ![Home Page with Login](./images/home%20page%20with%20login.jpg)
 
    - **Sign Up page**
-    ![Sign Up page](images/signup%20page.jpg)
+    ![Sign Up page](./images/signup%20page.jpg)
    - **Login page**
-    ![Login page](images/login%20page.jpg)
+    ![Login page](./images/login%20page.jpg)
     - **About page**
       - ***Unflipped Card***
-   ![About page 1](images/About%20page%201.jpg)
+   ![About page 1](./images/About%20page%201.jpg)
       - ***Flipped card***
-   ![About page 2](images/about%20page%202.jpg)
+   ![About page 2](./images/about%20page%202.jpg)
    - **Contact Page**
       - ***Image 1***
-   ![Contact page 1](/images/contact%20page%201.jpg)
+   ![Contact page 1](./images/contact%20page%201.jpg)
       - ***Image 2***
-    ![Contact page 2](/images/contact%20page%202.jpg)
+    ![Contact page 2](./images/contact%20page%202.jpg)
 
    - **Add Task Page**
-   ![Add Task](/images/add%20task%20page.jpg)
+   ![Add Task](./images/add%20task%20page.jpg)
    - **View Task Page**
-   ![View Task](/images/view%20todo%20lists.jpg)
+   ![View Task](./images/view%20todo%20lists.jpg)
    - **Footer Page** 
-   ![Footer Page](/images/footer.jpg)
+   ![Footer Page](./images/footer.jpg)
 ***
 ## 6. Limitations
     - Some of the pages are not responsive ,so they may not load properly in small devices.
