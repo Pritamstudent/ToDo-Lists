@@ -95,7 +95,7 @@ option in the list. We also sorted and filtered the tasks in the lists using the
 ***
 ## 11. Project Developer
   
-- [***Pritam Sharma***]([https://t3.ftcdn.net/jpg/04/09/81/22/360_F_409812204_DB79pC30Mid4zQgUwEFOMbniRhzUUk2X.jpg ](https://github.com/Pritamstudent))
+[***Pritam Sharma***](https://github.com/Pritamstudent)
   
   
   
