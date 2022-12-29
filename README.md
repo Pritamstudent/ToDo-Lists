@@ -58,7 +58,7 @@ In this Project, we have tried to make our own ToDo List website with our own po
     ![signup page](https://user-images.githubusercontent.com/121369078/209808511-3c7f8ef7-e64e-44d9-bf89-a0032a66baa1.jpg)
    - **Login page**
     ![login page](https://user-images.githubusercontent.com/121369078/209808572-5e2f0d43-b0f7-49e9-88a5-a907b197ea24.jpg)
-    - **About page**
+   - **About page**
       - ***Unflipped Card***
    ![About page 1](https://user-images.githubusercontent.com/121369078/209808615-f3128936-18ad-484e-9aa3-2f6a2dedc0bc.jpg)
       - ***Flipped card***
@@ -95,7 +95,7 @@ option in the list. We also sorted and filtered the tasks in the lists using the
 ***
 ## 11. Project Developer
   
-- ***Pritam Sharma***
+- [***Pritam Sharma***]([https://t3.ftcdn.net/jpg/04/09/81/22/360_F_409812204_DB79pC30Mid4zQgUwEFOMbniRhzUUk2X.jpg ](https://github.com/Pritamstudent))
   
   
   
