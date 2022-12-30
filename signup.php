@@ -65,9 +65,7 @@ if(isset($_SESSION["email"]))
 <body style="background-color: rgb(227, 237, 237); margin:0">
 
     <div class="container">
-        <?php
-        echo $msg;
-        ?>       ?? <form class="form-signup" action="./signup_script.php" method="POST">
+        <form class="form-signup" action="./signup_script.php" method="POST">
             <h1 style="text-align: center;">
                 Create Account
             </h1>
